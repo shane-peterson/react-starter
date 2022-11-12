@@ -11,7 +11,7 @@
         "color": "terminal.ansiBlue",
         "id": "server"
       },
-      "runOptions": { "runOn": "folderOpen" }
+      "runOptions": { "runOn": "default" }
     }
   ]
 }
